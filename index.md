@@ -1,19 +1,5 @@
-<html>
-  <head>
-    <style>
-      body {
-        background-color: AntiqueWhite;
-        color: black;
-        font-size: 20px;
-      }
-      img {
-      max-width: 500px;
-      max-height: 600px;
-     }
-    </style>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6593362288424158"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6593362288424158"
      crossorigin="anonymous"></script>
-  </head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-MZMCBZEKNZ"></script>
 <script>
@@ -23,7 +9,6 @@
 
   gtag('config', 'G-MZMCBZEKNZ');
 </script>
-  <body>
     
     <h1>AnonymousTalks</h1>
     <h2>निरामिष और आमिष</h2>
@@ -62,12 +47,5 @@
     <p><img src="https://cdn.vectorstock.com/i/preview-1x/11/69/blank-avatar-profile-picture-vector-45161169.webp" alt="Image"></p>
     <p>This page is the what you get when you ask a bunch of experts from wildly varying fields to create a blog.Here we share our insights
      on what we believe the masses need to know.</p>
-
-    <h2>Some Information</h2>
-    <p><img src="https://www.boredpanda.com/blog/wp-content/uploads/2022/10/interesting-facts-factbytes-cover_800.jpg" alt="Norge;">Norge!</p>
-    <p><img src="https://www.thoughtco.com/thmb/CX4tnhjScLOkE3cJ7fOuQsC15tk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-pka-in-chemistry-605521_FINAL-d2a214064114498ca46a32d64db81b36.png" alt="Butterflies"></p>
-    <p><img src="gigachadkabir.jpg" alt="Image"></p>
-
-    <footer> © Copyright-KVS Technologies 2023-All Rights Reserved</footer>
   </body>
 </html>
