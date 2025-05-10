@@ -42,6 +42,46 @@
 शाकाहार एक व्रत है जो अशुद्ध चमचा लग जाने पर भंग हो जाता है। यदि एक जीव का रक्त भोजन में मिल ही गया तो कैसा शाकाहार?
 इसलिए शाकाहारी लोग पूर्ण शुचिता चाहते हैं। इसमें किसी को भी आपत्ति नहीं होनी चाहिए। हमारी सर्वे भवन्तु सुखिन: का उद्घोष करने वाली संस्कृति हैं। 
 हमें अनावश्यक हिंसा यों भी शोभा नहीं देती। केवल मात्र जीभ के स्वाद और उदर पूर्ति के लिए जीव हत्या का कोई औचित्य ही नहीं।
+
+# The Adani Crisis
+## Adani,Adani,Adani. It's all anyone talks about! Here's our spin on it. - Feb 13, 2023
+
+As we all know, a few days ago The Adani Group's stock prices fell, and several shareholders, including Gautam 
+Adani himself, (who lost half of his net worth) have have suffered great losses. For reference, Adani was worth an estimated $126.4 billion.
+Now, Adani's net worth has dropped to $56.4 billion on Bloomberg Billionaire Index from $120 billion two weeks ago.
+This was after Hindenburg Research released a report alleging that Adani and his family members have engaged in fraud 
+and 'brazen stock manipulation". However,The Adani Group Released a statement that:
+
+> Allegations no. 1, 2, 3, 27, 28,
+> 29, 30, 31, 72, 73, 74, 75, 76, 77, 78, 79, and 80 all present no new findings and only dredge up allegations (in some
+> cases from a decade ago) which have been judicially disproven and have also been disclosed by us to our investors and the regulators.
+     
+### _Hindenburg Exposed_
+The US short seller is among dozens of prominent firms that are being investigated by the DoJ (since 2021) for potentially illegal 
+trading tactics. The probe seeks to establish whether short-sellers used illegal trading tactics to drive down stock prices by sharing
+damaging research reports ahead of time. According to several media reports from last year, federal prosecutors have seized hardware, trading records and private communications as the investigation continues.As one post put it, they were not specialists who exposed 
+fraudulent activity - “they themselves were frauds."
+
+**How do these allegations benefit Hindenburg anyway?**
+
+(Maybe not?) Altruistic motivations aside, the current situation can make Hindenburg money. As the Research company noted in its report,
+it had taken a 'short position'in Adani Group companies through through bonds that trade inside the US and other investments that trade 
+outside India.They secured billions of profits by butchering citizen of India. However, SEBI did not suspend trading in the stock 
+specially qua to the Adani group, and allowed short sellers to exploit innocent investors, said Advocate M L Sharma in his Apex Court petition.
+
+# Welcome Guys!
+## Hello Fans! This is the first part of a great journey - Feb 13, 2022
+
+We're thrilled to have you join us as we share our thoughts, insights, and experiences on a variety of topics.
+Our goal with this blog is to provide a space for meaningful conversation and to create a community of like-minded individuals who are passionate about learning, growing, and making a difference.
+       
+Whether you're here to stay up to date on the latest trends, to find inspiration for your own personal growth, or just to pass the time, we have something for everyone.  Our team of writers and contributors come from diverse backgrounds and bring a wealth of knowledge and expertise to the table. We cover a wide range of topics, including personal development, health and wellness, technology, creativity, and more. Our articles are thought-provoking, informative, and always aimed at helping you lead a more fulfilling life. We also welcome your feedback and would love to hear your thoughts on our posts. Feel free to Anonymoustalks868@gmail.com if you have a suggestion for a future article. We're always looking for new ideas and perspectives to share with our readers. So, what are you waiting for? 
+Start exploring our blog and join the conversation today!
+We're excited to have you along for the ride.
+
+Best regards, 
+
+AnonymousTalks Team
      
 ## About Us
 This page is the what you get when you ask a bunch of experts from wildly varying fields to create a blog.Here we share our insights
